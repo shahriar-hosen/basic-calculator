@@ -5,6 +5,10 @@ This project was created to practice **JavaScript logic**, **DOM manipulation**,
 
 ---
 
+## 🌐 Live Demo
+👉 [Open Calculator](https://shahriar-hosen.github.io/basic-calculator/)
+
+
 ## ⚙️ Features
 
 - Perform basic arithmetic: **Addition (+), Subtraction (−), Multiplication (*), and Division (/)**  
