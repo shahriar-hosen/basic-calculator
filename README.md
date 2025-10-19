@@ -38,11 +38,6 @@ This project was created to practice **JavaScript logic**, **DOM manipulation**,
 - **CSS3** – layout, colors, and modern rounded design  
 - **JavaScript (ES6)** – calculator logic and event handling  
 
----
-
-## 🖼️ Preview
-
-![Calculator Screenshot](9a8ef694-368a-448f-a8c3-3226c663f608.png)
 
 ---
 
